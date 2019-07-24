@@ -1,0 +1,11 @@
+D:\Project\Fitness\FitAndHealthy\FitAndHealthy\bin\Debug\netcoreapp2.0\FitAndHealthy.deps.json
+D:\Project\Fitness\FitAndHealthy\FitAndHealthy\bin\Debug\netcoreapp2.0\FitAndHealthy.runtimeconfig.json
+D:\Project\Fitness\FitAndHealthy\FitAndHealthy\bin\Debug\netcoreapp2.0\FitAndHealthy.runtimeconfig.dev.json
+D:\Project\Fitness\FitAndHealthy\FitAndHealthy\bin\Debug\netcoreapp2.0\FitAndHealthy.dll
+D:\Project\Fitness\FitAndHealthy\FitAndHealthy\bin\Debug\netcoreapp2.0\FitAndHealthy.pdb
+D:\Project\Fitness\FitAndHealthy\FitAndHealthy\obj\Debug\netcoreapp2.0\FitAndHealthy.csproj.CoreCompileInputs.cache
+D:\Project\Fitness\FitAndHealthy\FitAndHealthy\obj\Debug\netcoreapp2.0\FitAndHealthy.AssemblyInfoInputs.cache
+D:\Project\Fitness\FitAndHealthy\FitAndHealthy\obj\Debug\netcoreapp2.0\FitAndHealthy.AssemblyInfo.cs
+D:\Project\Fitness\FitAndHealthy\FitAndHealthy\obj\Debug\netcoreapp2.0\FitAndHealthy.dll
+D:\Project\Fitness\FitAndHealthy\FitAndHealthy\obj\Debug\netcoreapp2.0\FitAndHealthy.pdb
+D:\Project\Fitness\FitAndHealthy\FitAndHealthy\obj\Debug\netcoreapp2.0\FitAndHealthy.csprojAssemblyReference.cache
